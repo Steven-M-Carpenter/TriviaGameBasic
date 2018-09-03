@@ -1,0 +1,58 @@
+
+/* font-family: 'Raleway', sans-serif; */
+/* font-family: 'Righteous', cursive; */
+
+
+/* .bg {
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+} */
+
+label {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.container {
+    background-color: white;
+}
+
+
+.QuestText {
+    /* font-family: 'Raleway', sans-serif; */
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+}
+
+.answerOption {
+    color: green;
+}
+
+#LaunchTitle {
+    min-height: 400px;
+    /* margin: auto; */
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#GameTitle {
+    font-family: 'Righteous', sans-serif;
+    color: darkgreen;
+    font-weight: 40px !important; 
+}
+
+#GameTimer {
+    font-family: 'Righteous', sans-serif;
+    color: darkgreen;
+}
+/* .row {
+    padding-left: 15px;
+} */
+
+
+
+
+
