@@ -18,5 +18,6 @@ I originally pursued this assignment with 10 sequence DIV's containing a questio
 ### Link
 ---
 Use the link below to access this application:
+
 [Basic Quiz Application](https://steven-m-carpenter.github.io/TriviaGameBasic/)
 
